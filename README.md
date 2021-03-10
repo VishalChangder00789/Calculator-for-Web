@@ -4,7 +4,7 @@ A small calculator app for website made with just HTML, CSS and a little bit of 
 https://drive.google.com/drive/folders/18qzUqIj_DqYCXdpaLLI67G_BEXBddass?usp=sharing
 
 * Link contains the project.
-* Video preview of the game.
+* Video preview of app.
 
 # Screenshot : 
 
