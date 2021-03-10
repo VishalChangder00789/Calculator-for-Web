@@ -8,7 +8,9 @@ https://drive.google.com/drive/folders/18qzUqIj_DqYCXdpaLLI67G_BEXBddass?usp=sha
 
 # Screenshot : 
 
-![](GameCollage.png)
+![](1.png)
+![](2.png)
+![](3.png)
 
 # Aim
 * To implement a calculator which is visually attractive and working flawlessly.
